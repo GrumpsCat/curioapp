@@ -6,7 +6,7 @@ nav_order: 1
 permalink: /index.html
 ---
 
-# 🧭 Curio Index
+# 🧭 Curio Index 2.0
 
 Explore idea-driven writing challenges inspired by philosophy, language, and cognition.
 
