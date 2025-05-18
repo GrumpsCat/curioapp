@@ -1,0 +1,14 @@
+
+title: Curio
+description: Writing-based exploration of ideas, language, and culture.
+theme: just-the-docs
+
+just_the_docs:
+  aux_links:
+    "Curio on GitHub":
+      - "https://github.com/GrumpsCat/curioapp"
+  search_enabled: true
+  heading_anchors: true
+
+plugins:
+  - jekyll-feed
